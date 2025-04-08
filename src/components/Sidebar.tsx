@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Github, Home, Menu, X } from "lucide-react";
+import { Github, Home, Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { useState } from "react";
